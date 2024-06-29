@@ -1,0 +1,14 @@
+body {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 1em;
+	font-family: "Motiva Sans", Sans-serif;
+}
+
+h1, h2, h3 {
+	#text-transform: uppercase;
+}
+
+.inline {
+	display: inline;
+}
